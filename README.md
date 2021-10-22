@@ -24,13 +24,11 @@ npm install -D tslint
 
 npm i -D @types/node      
 
-npm i express 
-
 npm i -D @types/express  
 
 npm i -D nodemon 
 
-npm i cors 
+npm install express sequelize mysql2 body-parser cors --save
 ```  
 
 ###### 1.3 Configuring TypeScript
