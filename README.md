@@ -58,7 +58,7 @@ The `start` script that will compile and transpile the TypeScript code, and then
 ##### 2 . Next, Start the server
 
 ```
-npm run serve
+npm run start
 ```
 
 Alternatively and without `Nodemon`, you could run the server with 
